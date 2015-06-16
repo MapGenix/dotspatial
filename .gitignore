@@ -1,0 +1,14 @@
+DotSpatial.Projections/obj/
+DotSpatial.Serialization/obj/
+DotSpatial.Modeling.Forms/obj/
+DotSpatial.Data/obj/
+DotSpatial.Extensions/obj/
+DotSpatial.Plugins.ProjectTemplateVSIX/Packages/DotSpatial.Topology.1.0.0.0.nupkg
+DotSpatial.Plugins.ProjectTemplateVSIX/Packages/
+DotSpatial.Controls.Tests/DotSpatial.Controls/obj/
+DotSpatial.Data.Forms/obj/
+DotSpatial.Controls/obj/
+DotSpatial.Data.Tests/obj/
+DotSpatial.Symbology/obj/
+DotSpatial.Symbology.Forms/obj/
+DotSpatial.Projections.Forms/obj/

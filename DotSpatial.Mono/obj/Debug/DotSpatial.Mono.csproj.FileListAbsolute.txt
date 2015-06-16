@@ -1,0 +1,5 @@
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\bin\Debug\DotSpatial.Mono.dll
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\bin\Debug\DotSpatial.Mono.pdb
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\DotSpatial.Mono\obj\Debug\DotSpatial.Mono.csprojResolveAssemblyReference.cache
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\DotSpatial.Mono\obj\Debug\DotSpatial.Mono.dll
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\DotSpatial.Mono\obj\Debug\DotSpatial.Mono.pdb

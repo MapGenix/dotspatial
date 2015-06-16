@@ -1,0 +1,7 @@
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\bin\Debug\DotSpatial.Topology.dll
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\bin\Debug\DotSpatial.Topology.pdb
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\DotSpatial.Topology\obj\Debug\DotSpatial.Topology.csprojResolveAssemblyReference.cache
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\DotSpatial.Topology\obj\Debug\DotSpatial.Topology.TopologyText.resources
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\DotSpatial.Topology\obj\Debug\DotSpatial.Topology.csproj.GenerateResource.Cache
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\DotSpatial.Topology\obj\Debug\DotSpatial.Topology.dll
+C:\Users\franc_000\Downloads\dotspatial-74729\Trunk\DotSpatial.Topology\obj\Debug\DotSpatial.Topology.pdb
